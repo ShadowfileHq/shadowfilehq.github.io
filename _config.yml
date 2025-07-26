@@ -1,7 +1,8 @@
 title: ShadowFiles
-description: Investigative OSINT reports exposing corruption across Nigeria.
-author:shadow
-  name: ShadowFiles
+description: OSINT | Investigations | Nigeria’s Hidden Truths
+url: https://shadowfilehq.github.io
+author: Shadow
+  name: Shadow (anonymous)
   email: nature000011@protonmail.com
-show_downloads: false
-theme: jekyll-theme-cayman
+twitter_username: shadowfilehq
+github_username: shadowfilehq
